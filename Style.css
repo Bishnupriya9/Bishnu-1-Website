@@ -1,0 +1,28 @@
+h1{
+    color: red;
+}
+p{
+    color: green;
+}
+body{
+    background-color: rgb(200,60,230);
+}
+button{
+    color: blue;
+    background-color:aqua;
+}
+.less{
+    color:red;
+}
+.double{
+    color: Green;
+}
+.single{
+    color:blueviolet;
+}
+.pound{
+    color:crimson;
+}
+.euro{
+    color:darkcyan;
+}
